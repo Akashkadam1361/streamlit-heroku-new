@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Week 8 Assignment- Utkarsh Sahu- 21f1001107")
+st.header("Addition of 2 given numbers")
 
 number1 = st.number_input('Insert first number',value=0) 
 

@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Addition of 2 given numbers")
+st.header("Simple Calculator of 2 given numbers")
 
 number1 = st.number_input('Insert first number',value=0) 
 
